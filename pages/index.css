@@ -84,7 +84,7 @@
 
 }
 
-@media (min-width : 768px) {
+@media (min-width: 768px) {
     :root {
         --font-size_large: 96px;
         --font-size_medium: 54px;
@@ -96,7 +96,7 @@
     }
 }
 
-@media (min-width : 1024px) {
+@media (min-width: 1024px) {
     :root {
         --font-size_normal: 18px;
         --font-size_title: 72px;
@@ -106,7 +106,7 @@
     }
 }
 
-@media (min-width : 1280px) {
+@media (min-width: 1280px) {
     :root {
         --page-view_max-width: 984px;
     }
