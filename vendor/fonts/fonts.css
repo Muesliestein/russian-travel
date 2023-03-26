@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "Inter", Sans-serif;
+    font-family: "Inter", sans-serif;
 
     font-style: normal;
     src: url(./fonts/inter-regular.woff2) format("woff2"),
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-    font-family: "Inter", Sans-serif;
+    font-family: "Inter", sans-serif;
     font-weight: 700;
     font-style: normal;
     src: url(./fonts/inter-Bold.woff2) format("woff2"),
@@ -15,7 +15,7 @@
 }
 
 @font-face {
-    font-family: "Inter", Sans-serif;
+    font-family: "Inter", sans-serif;
     font-weight: 900;
     font-style: normal;
     src: url(./fonts/inter-black.woff2) format("woff2"),
