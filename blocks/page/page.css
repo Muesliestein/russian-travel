@@ -1,0 +1,17 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+
+
+
+}
+
+@media (min-width : 1024px) {
+    .page {
+        align-items: center;
+    }
+}

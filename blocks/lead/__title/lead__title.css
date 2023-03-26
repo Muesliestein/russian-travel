@@ -1,0 +1,8 @@
+.lead__title {
+    font-weight: 900;
+    font-size: var(--font-size_large);
+    line-height: var(--line-height_large);
+    text-align: center;
+    align-self: center;
+
+}

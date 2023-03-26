@@ -1,0 +1,60 @@
+.cover__background {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    color: #FFFFFF;
+    text-decoration: none;
+    box-sizing: border-box;
+    background-image: url(../../../images/__background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 1;
+    min-height: 200px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+}
+
+.cover__background::before {
+    content: "";
+    background: #2f2c2f;
+    opacity: 0.3;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 0.3s;
+}
+
+.cover__background:hover::before {
+    opacity: 0.8;
+}
+
+@media (min-width : 768px) {
+
+    .cover__background {
+        min-height: 480px;
+
+    }
+}
+
+@media (min-width : 1024px) {
+
+    .cover__background {
+        min-height: 640px;
+    }
+}
+
+@media (min-width : 1280px) {
+
+    .cover__background {
+        min-height: 740px;
+
+    }
+}

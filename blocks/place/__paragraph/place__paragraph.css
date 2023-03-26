@@ -1,0 +1,17 @@
+.place__paragraph {
+    margin: 0;
+    padding: 0 0 25px;
+    font-size: var(--font-size_normal);
+    line-height: 163%;
+    color: #FFFFFF;
+}
+
+.place__paragraph:last-child {
+    padding: 0;
+}
+
+/* @media (min-width : 768px) {
+    .place__paragraph {
+        width: 100%;
+    }
+} */
