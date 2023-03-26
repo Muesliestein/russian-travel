@@ -7,7 +7,7 @@
     color: #FFFFFF;
 }
 
-@media (min-width : 768px) {
+@media (min-width: 768px) {
     .cover__title {
         font-size: 72px;
         line-height: 76px;

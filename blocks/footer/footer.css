@@ -8,7 +8,7 @@
 }
 
 
-@media (min-width : 768px) {
+@media (min-width: 768px) {
     .footer {
         flex-direction: row;
         padding-left: 24px;
@@ -20,14 +20,14 @@
 
 }
 
-@media (min-width : 1024px) {
+@media (min-width: 1024px) {
     .footer {
         padding-left: 48px;
     }
 
 }
 
-@media (min-width : 1280px) {
+@media (min-width: 1280px) {
     .footer {
         max-width: 100%;
         box-sizing: border-box;
