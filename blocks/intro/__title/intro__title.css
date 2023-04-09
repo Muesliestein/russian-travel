@@ -2,5 +2,7 @@
     font-weight: 900;
     font-size: var(--font-size_medium);
     line-height: var(--line-height_medium);
+    margin: 0;
+    padding: 0;
 
 }
