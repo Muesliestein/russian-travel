@@ -20,7 +20,7 @@
 
 }
 
-@media (min-width: 1024x) {
+@media (min-width: 1024px) {
     .cover__title {
         font-size: 72px;
         line-height: 76px;
@@ -31,7 +31,7 @@
 
 }
 
-@media (min-width: 1280x) {
+@media (min-width: 1280px) {
     .cover__title {
         font-size: 72px;
         line-height: 76px;
