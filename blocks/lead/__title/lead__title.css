@@ -1,11 +1,20 @@
 .lead__title {
-    font-weight: 900;
     font-size: var(--font-size_large);
     line-height: var(--line-height_large);
     text-align: center;
     align-self: center;
     margin: 0;
     padding: 0 16px 0;
-    max-width: 288px;
+}
 
+@media (min-width: 768px) {
+    .lead__title {
+        padding: 0 24px 0;
+    }
+}
+
+@media (min-width: 1024px) {
+    .lead__title {
+        padding: 0 152px 0;
+    }
 }

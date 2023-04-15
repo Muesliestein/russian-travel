@@ -12,6 +12,7 @@
     --line-height_title: 35px;
     --line-height_large: 44px;
     --line-height_medium: 35px;
+    --line-height_subtitle: 20px;
 
     /* page-view */
     --page-view_max-width: 100%;
@@ -33,6 +34,7 @@
         --line-height_title: 46px;
         --line-height_large: 100px;
         --line-height_medium: 58px;
+        --line-height_subtitle: 36px;
     }
 }
 

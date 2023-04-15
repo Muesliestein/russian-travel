@@ -3,12 +3,19 @@
   padding: 40px 0 0;
   line-height: 26px;
   font-size: 16px;
-  
+
 }
 
 @media (min-width: 1024px) {
 
   .intro__text {
-    width: 65%;
+    width: 74%;
+  }
+}
+
+@media (min-width: 1280px) {
+
+  .intro__text {
+    width: 70%;
   }
 }

@@ -10,13 +10,20 @@
 @media (min-width: 768px) {
 
     .intro {
-        padding-top: 88px;
+        padding: 88px 24px 0;
     }
 }
 
 @media (min-width: 1024px) {
 
     .intro {
-        padding: 92px 0 0;
+        padding: 92px 48px 0;
+    }
+}
+
+@media (min-width: 1280px) {
+
+    .intro {
+        padding: 92px 148px 0;
     }
 }
