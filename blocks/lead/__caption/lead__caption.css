@@ -1,5 +1,4 @@
 .lead__caption {
-
     font-size: 10px;
     line-height: 14px;
     margin: 8px 0 0;
@@ -12,19 +11,10 @@
     .lead__caption {
         padding: 0 0 0 24px;
     }
-
 }
 
 @media (min-width: 1024px) {
     .lead__caption {
         padding: 0;
     }
-
-}
-
-@media (min-width: 1280px) {
-    .lead__caption {
-        padding: 0;
-    }
-
 }

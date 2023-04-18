@@ -4,13 +4,10 @@
     font-weight: 900;
     font-size: var(--font-size_title);
     line-height: var(--line-height_title);
-    max-width: 340px;
 }
 
 @media (min-width: 768px) {
     .place__title {
         padding: 0;
-        margin: 0;
-
     }
 }
