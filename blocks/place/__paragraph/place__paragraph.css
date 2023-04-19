@@ -9,9 +9,3 @@
 .place__paragraph:last-child {
     padding: 0;
 }
-
-/* @media (min-width: 768px) {
-    .place__paragraph {
-        width: 100%;
-    }
-} */

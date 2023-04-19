@@ -16,7 +16,6 @@
     width: 100%;
     padding: 0;
     margin: 0;
-
 }
 
 .cover__background::before {
@@ -40,7 +39,6 @@
 
     .cover__background {
         min-height: 480px;
-
     }
 }
 
@@ -55,6 +53,5 @@
 
     .cover__background {
         min-height: 740px;
-
     }
 }

@@ -14,7 +14,6 @@
         padding: 88px 24px 0;
         gap: 16px;
     }
-
 }
 
 @media (min-width: 1024px) {
@@ -23,7 +22,6 @@
         padding: 92px 48px 0;
         gap: 14px;
     }
-
 }
 
 @media (min-width: 1280px) {
