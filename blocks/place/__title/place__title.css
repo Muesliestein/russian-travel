@@ -9,5 +9,12 @@
 @media (min-width: 768px) {
     .place__title {
         padding: 0;
+        max-width: 329px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .place__title {
+        max-width: 400px;
     }
 }
